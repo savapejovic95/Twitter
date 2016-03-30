@@ -65,7 +65,7 @@ public class TwitterPoruka {
 	}
 	
 	/**
-	 * @return ime korisnika & sadrzaj poruke
+	 * @return ime korisnika i sadrzaj poruke
 	 */
 	public String toString(){
 		return "KORISNIK:"+korisnik+" PORUKA:"+poruka;
